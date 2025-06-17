@@ -31,12 +31,12 @@ const SalesProofPopup = ({ show, onClose }: { show: boolean; onClose: () => void
   const [currentMessage, setCurrentMessage] = useState("")
 
   const salesMessages = [
-    "✅ Ana, near you, unlocked a report 3 minutes ago",
-    "✅ Carlos, recently, viewed conversation history",
+    "✅ Anna, near you, unlocked a report 3 minutes ago",
+    "✅ Charles, recently, viewed conversation history",
     "✅ Amanda just released confidential photos",
-    "✅ Lucas completed a full analysis right now",
-    "✅ Fernanda gained access to the confidential report moments ago",
-    "✅ João performed a complete verification right now",
+    "✅ Luke completed a full analysis right now",
+    "✅ Felicity gained access to the confidential report moments ago",
+    "✅ John performed a complete verification right now",
   ]
 
   useEffect(() => {
