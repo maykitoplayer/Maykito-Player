@@ -683,11 +683,11 @@ export default function SigiloX() {
                     </h3>
 
                     <div className="max-w-3xl mx-auto space-y-5 sm:space-y-6 mb-6 sm:mb-8">
-                      {/* Ana's Testimonial */}
+                      {/* Anna's Testimonial */}
                       <div className="testimonial-card bg-white rounded-xl shadow-lg p-4 sm:p-5 flex items-start gap-4">
                         <img
-                          src="https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
-                          alt="Foto de Ana"
+                          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                          alt="Foto de Anna"
                           className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0 border-2 border-gray-200 shadow-sm"
                           onError={(e) => {
                             e.currentTarget.src =
@@ -696,7 +696,7 @@ export default function SigiloX() {
                         />
                         <div className="flex-1 min-w-0 text-left">
                           <div className="mb-2">
-                            <p className="font-bold text-[#333333] text-base sm:text-lg">Ana</p>
+                            <p className="font-bold text-[#333333] text-base sm:text-lg">Anna</p>
                             <p className="text-xs sm:text-sm text-green-600 font-medium">✓ Verified User</p>
                           </div>
                           <div className="mb-3">
@@ -718,11 +718,11 @@ export default function SigiloX() {
                         </div>
                       </div>
 
-                      {/* Carlos's Testimonial */}
+                      {/* Charles's Testimonial */}
                       <div className="testimonial-card bg-white rounded-xl shadow-lg p-4 sm:p-5 flex items-start gap-4">
                         <img
                           src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
-                          alt="Foto de Carlos"
+                          alt="Foto de Charles"
                           className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0 border-2 border-gray-200 shadow-sm"
                           onError={(e) => {
                             e.currentTarget.src =
@@ -731,7 +731,7 @@ export default function SigiloX() {
                         />
                         <div className="flex-1 min-w-0 text-left">
                           <div className="mb-2">
-                            <p className="font-bold text-[#333333] text-base sm:text-lg">Carlos</p>
+                            <p className="font-bold text-[#333333] text-base sm:text-lg">Charles</p>
                             <p className="text-xs sm:text-sm text-blue-600 font-medium">Analysis done in June 2025</p>
                           </div>
                           <div className="mb-3">
@@ -753,11 +753,11 @@ export default function SigiloX() {
                         </div>
                       </div>
 
-                      {/* Fernanda's Testimonial */}
+                      {/* Felicity's Testimonial */}
                       <div className="testimonial-card bg-white rounded-xl shadow-lg p-4 sm:p-5 flex items-start gap-4">
                         <img
                           src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
-                          alt="Foto de Fernanda"
+                          alt="Foto de Felicity"
                           className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0 border-2 border-gray-200 shadow-sm"
                           onError={(e) => {
                             e.currentTarget.src =
@@ -766,7 +766,7 @@ export default function SigiloX() {
                         />
                         <div className="flex-1 min-w-0 text-left">
                           <div className="mb-2">
-                            <p className="font-bold text-[#333333] text-base sm:text-lg">Fernanda</p>
+                            <p className="font-bold text-[#333333] text-base sm:text-lg">Felicity</p>
                             <p className="text-xs sm:text-sm text-green-600 font-medium">✓ Verified User</p>
                           </div>
                           <div className="mb-3">
